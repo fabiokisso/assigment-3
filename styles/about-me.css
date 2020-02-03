@@ -1,0 +1,81 @@
+/*
+Colors:
+  Light green: #7ed56f
+  Medium green: #55c57a
+  Dark green: #28b485
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: "Lato", sans-serif;
+    font: 400;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+  }
+  
+  .header {
+    height: 20vh;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .logo-container {
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 9px;
+  }
+
+  .index{
+    color: white;
+  }
+  
+  .about-me{
+    color: white;
+  }
+  
+  .education-experience{
+    color: white;
+  }
+  
+  .my-skills{
+    color: white;
+  }
+  
+  .contact-me{
+    color: white;
+  }
+
+
+  .about-me-section-heading{
+text-align: center;
+ }
+
+.my-image{
+position: absolute;
+top: 30%;
+right: 1%;
+size: auto;
+}
+
+.get-to-know-fabio{
+position: absolute;
+top: 50%;
+left: 1%;
+}
+
+.as-a-graduate-of-lau{
+position: absolute;
+top: 60%;
+left: 1%;
+}
